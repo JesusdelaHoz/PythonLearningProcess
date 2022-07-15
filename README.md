@@ -38,8 +38,8 @@ El encargado de impartir todos los conocimientos ha sido [TokioSchool](https://w
     - Librerias especializadas en el manejo de datos
 
 + __Módulo 6:__ Practicando de aprende
-    - Aplicación web con Flask y base de datos SQLite3 (Repositorio a parte)
-    - Aplicación de consola con Tkinter y base de datos SQLite3 (Repositorio a parte)
+    - Aplicación web con Flask y base de datos SQLite3 [(Repositorio 'App web')](https://github.com/JesusdelaHoz/AppConsola_LearningProcess.git)
+    - Aplicación de consola con Tkinter y base de datos SQLite3 [(Repositorio 'App Escritorio')]()
    
 + __Módulo Final:__ Proyecto final
     - ___LAZYS___ Aplicacion de consola para extracción de informacion LiDAR de ficheros LAZ/LAS y registro en base de datos SQLite3 (Repositorio a parte)
