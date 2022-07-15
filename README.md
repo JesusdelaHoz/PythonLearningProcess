@@ -1,9 +1,9 @@
 # PythonLearningProcess
-Este pequeño repositorio esta formado por un conjunto de ejercicos y proyectos sencillos que han supuesto mi desarrollo como programador principitante en python, desde un inicio en donde no tenia ningun conocimiento de programación hasta desarrollar una pequeña ointerfaz grafica de usuario llamada [LAZYS](https://github.com/JesusdelaHoz/LazysApp.git).
-
-#### Todos los proyectos se han desarrollado en Jupyter Notebook, salvo los dos ultimos (Aplicación Web con Flask y desarrollo de interfaz grafica de usuario con Tkinter)
+Este pequeño repositorio esta formado por un conjunto de ejercicos y proyectos sencillos que han supuesto mi desarrollo como programador principitante en Python, desde un inicio en donde no tenia ningun conocimiento de programación hasta desarrollar una pequeña aplicacón de escritorio llamada [LAZYS](https://github.com/JesusdelaHoz/LazysApp.git).
 
 El encargado de impartir todos los conocimientos ha sido [TokioSchool](https://www.tokioschool.com/?MLL=2942&gclid=CjwKCAjw_b6WBhAQEiwAp4HyILrVY7wqusKA0W1we5Fz3ud-nPU3YuoZqsXNOc5XWIWJFyFCyZj86hoCnGgQAvD_BwE) el cual tiene como linea de formación un división por modulos de aprendizaje, divididos de la siguiente manera:
+#### Todos los proyectos se han desarrollado en Jupyter Notebook, salvo los tres ultimos.
+
 + __Módulo 1:__ Python, el nuevo desconocido
     - Presentación de Python
     - ¿Por qué escoger Python?
