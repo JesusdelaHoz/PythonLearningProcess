@@ -42,4 +42,4 @@ El encargado de impartir todos los conocimientos ha sido [TokioSchool](https://w
     - Aplicación de consola con Tkinter y base de datos SQLite3 [(Repositorio 'App Escritorio')](https://github.com/JesusdelaHoz/AppConsola_LearningProcess.git) 
    
 + __Módulo Final:__ Proyecto final
-    - ___LAZYS___ Aplicacion de consola para extracción de informacion LiDAR de ficheros LAZ/LAS y registro en base de datos SQLite3 (Repositorio a parte)
+    - ___LAZYS___ Aplicacion de consola para extracción de informacion LiDAR de ficheros LAZ/LAS y registro en base de datos SQLite3 [(Repositorio LAZYS)](https://github.com/JesusdelaHoz/LazysApp.git)
